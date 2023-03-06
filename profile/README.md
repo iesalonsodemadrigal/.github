@@ -12,7 +12,7 @@ Para poder acceder a los repositorios debes solicitar permiso a tu profesor (Che
 - [Carné Joven](https://youthcard.sitehub.es)
 
 ## Premios obtenidos
-- **Plagrícola**: Segundo premios Open Data CyL 2021 [Link a los premios](https://datosabiertos.jcyl.es/web/es/concurso-datos-abiertos/premiados-v-concurso.html)
+- **Plagrícola**: [Segundo premios Open Data CyL 2021](https://datosabiertos.jcyl.es/web/es/concurso-datos-abiertos/premiados-v-concurso.html)
 - **SmartPlant**: [Segundo premiado I Edición Transferencia de la FP](https://fpempresa.net/noticias/smartplant-propone-un-cambio-en-el-sistema-agroalimentario/)
 - **Ávila en tapas**:
   - [Premios Educación Castilla y León 2021/22.](https://comunicacion.jcyl.es/web/jcyl/Comunicacion/es/Plantilla100Detalle/1284877983892/NotaPrensa/1285228858153/Comunicacion)
