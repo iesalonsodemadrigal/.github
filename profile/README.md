@@ -6,7 +6,7 @@ Repositorios del Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones
 
 - [Plagrícola](https://plagricola.sitehub.es)
 - [Ávila en Tapas](https://avilaentapas.sitehub.es)
-- [Protectora Huellas](https://protectorahuellas.sitehub.es)
+- [Protectora Huellas](https://huellas.sitehub.es)
 - [Carné Joven](https://youthcard.sitehub.es)
 
 ## Premios obtenidos
