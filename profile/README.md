@@ -11,6 +11,12 @@ Repositorios del Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones
 
 ## Premios obtenidos
 
+### Curso 2022/23
+- **YouthCard**: [Primer premiao VII Datos Abiertos Castilla y León](https://datosabiertos.jcyl.es/web/jcyl/RISP/es/Plantilla100/1285331978647/_/_/_)
+- **Ávila en tapas**:
+  - [Premios Educación Castilla y León 2021/22.](https://comunicacion.jcyl.es/web/jcyl/Comunicacion/es/Plantilla100Detalle/1284877983892/NotaPrensa/1285228858153/Comunicacion)
+  - [Premios Ministerio de Educación: Experiencia educativa e inspiradora 2022/23.](https://www.educacionyfp.gob.es/servicios-al-ciudadano/catalogo/general/28/2895236/ficha/2895236-2022.html)
+
 ### Curso 2021/22
 - **SmartPlant**: [Segundo premiado I Edición Transferencia de la FP](https://fpempresa.net/noticias/smartplant-propone-un-cambio-en-el-sistema-agroalimentario/)
 - **Ávila en tapas**:
