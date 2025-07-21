@@ -3,17 +3,15 @@
 Repositorios del Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Multiplataforma.
 
 ## Proyectos realizados
-
-- [Ávila en Tapas (2022)](https://avilaentapas.sitehub.es)
-- [Carné Joven (2023)](https://youthcard.sitehub.es)
-- [Plagrícola (2022)](https://plagricola.sitehub.es)
-- [Protectora Huellas (2023)](https://huellas.sitehub.es)
-- [Carné Joven (2023)](#)
-- [FoodSafety (2024)](#)
-- [Rememora (2025)[#]
 - [Alesia: Asistente para la interpretación a Lengua de Signos con Inteligencia Artificial (2025)] (#)
 - [MeCeIoT: Mejoras de Eficiencia en Centros Educativos con IoT (2025)](#)
 - [Fungidex: Conociendo las setas (2025)](#)
+- [FoodSafety (2024)](#)
+- [Rememora (2025)[#]
+- [Protectora Huellas (2023)](https://huellas.sitehub.es)
+- [Carné Joven (2023)](#)
+- [Ávila en Tapas (2022)](https://avilaentapas.sitehub.es)
+- [Plagrícola (2022)](https://plagricola.sitehub.es)
 
 ## Premios obtenidos
 
