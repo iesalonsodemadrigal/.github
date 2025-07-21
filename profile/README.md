@@ -8,8 +8,20 @@ Repositorios del Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones
 - [Carné Joven (2023)](https://youthcard.sitehub.es)
 - [Plagrícola (2022)](https://plagricola.sitehub.es)
 - [Protectora Huellas (2023)](https://huellas.sitehub.es)
+- [Carné Joven (2023)](#)
+- [FoodSafety (2024)](#)
+- [Rememora (2025)[#]
+- [Alesia: Asistente para la interpretación a Lengua de Signos con Inteligencia Artificial (2025)] (#)
+- [MeCeIoT: Mejoras de Eficiencia en Centros Educativos con IoT (2025)](#)
+- [Fungidex: Conociendo las setas (2025)](#)
 
 ## Premios obtenidos
+
+## Curso 2024/25
+- **Alesia**
+  - [Premios de Investigación e Innovación de Castilla y León (Categoría FP)](https://alesia.iesalonsodemadrigal.es/resumen.html)
+- **MeCeIoT**
+  - [III Premios Aulas de Emprendimiento de Castilla y León (Categoría Sostenibilidad)](#) 
 
 ### Curso 2022/23
 - **YouthCard**:
